@@ -2,9 +2,8 @@
 > Credit risk modeling project on 2.26M LendingClub loans across an 11-year window (2007–2018) — covering feature engineering, class imbalance handling, and a tuned classifier achieving AUC 0.73, with SHAP-driven interpretability and findings delivered via interactive dashboards in Tableau and Power BI.
 
 **Stack:** Python · Pandas · Scikit-learn · XGBoost · SHAP · Tableau · Power BI  
-**Data:** [LendingClub Accepted Loans, 2007–2018Q4](https://github.com/talaygh/LendingClub-Credit-Risk-Analytics/blob/main/link) — 2.26M loans, 151 features  
+**Data:** [LendingClub Accepted Loans, 2007–2018Q4](https://www.kaggle.com/datasets/wordsforthewise/lending-club) — 2.26M loans, 151 features  
 **Live Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/talay.kamali/vizzes/)
-
 ---
 
 ## TL;DR
