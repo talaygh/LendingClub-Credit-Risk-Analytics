@@ -1,8 +1,7 @@
 # Loan Default Risk: Beating Lending Club's Pricing
+> Credit risk modeling project on 2.26M LendingClub loans across an 11-year window (2007–2018) — covering feature engineering, class imbalance handling, and a tuned classifier achieving AUC 0.73, with SHAP-driven interpretability and findings delivered via interactive dashboards in Tableau and Power BI.
 
-> A data science approach to credit risk on $7.5B+ of consumer loans across an 11-year window (2007–2018).
-
-**Author:** Talay Kamali · Data Analyst → Data Scientist
+**Author:** Talay Kamali · Data Analyst → Data Scientist  
 **Stack:** Python · Pandas · Scikit-learn · XGBoost · SHAP · Tableau · Power BI
 **Data:** [LendingClub Accepted Loans, 2007–2018Q4](https://www.kaggle.com/datasets/wordsforthewise/lending-club) — 2.26M loans, 151 features
 **Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/talay.kamali/vizzes)
